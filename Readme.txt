@@ -71,5 +71,5 @@ Contributions are welcome! If you’d like to improve the project, feel free to:
 This project is licensed under the **MIT License**.
 
 ---
-📩 **For inquiries or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/vineeth)**
+📩 **For inquiries or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/vineeth-chaitanya-1914101b5/)**
 
