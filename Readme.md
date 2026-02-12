@@ -105,4 +105,4 @@ This project is licensed under the **MIT License**.
 
 ---
 **Author**: Vineeth
-**Contact**: [Link to Profile/Email]
+**Contact**: [LinkedIn](https://www.linkedin.com/in/vineeth-chaitanya/)
